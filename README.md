@@ -29,9 +29,9 @@
 
                    Tools Run :
 
-       $ ls && cd bd-clone && ls
+       $ ls && cd jim-clone && ls
 
-       $ python2 bd.py
+       $ python2 jim.py
          Tools username  :Jim khan
          Tools Passwords :Jim khan
 
