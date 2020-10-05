@@ -13,11 +13,11 @@ $ pip2 install requests
 
 $ git clone https://github.com/Jimkhan-max/jimkhan
 
-$ cd Defacer
+$ cd jimkhan
 
 $ chmod +x *
 
-$ python2 jimkhan.py
+$ python2 Jimkhan.py
 
 Tutorial👇👇👇
 
