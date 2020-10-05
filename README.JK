@@ -11,13 +11,13 @@ $ pkg install python python2 git
 
 $ pip2 install requests
 
-$ git clone https://github.com/mhrPranto/Defacer
+$ git clone https://github.com/Jimkhan-max/jimkhan
 
 $ cd Defacer
 
 $ chmod +x *
 
-$ python2 deface.py
+$ python2 jimkhan.py
 
 Tutorial👇👇👇
 
